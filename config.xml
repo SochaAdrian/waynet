@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>waynetsocha</name>
+	<displayName><![CDATA[Waynet - Zadanie Rekrutacyjen]]></displayName>
+	<version><![CDATA[1.0.0]]></version>
+	<description><![CDATA[Moduł stworzony przez Adrian Socha <@adrian.soc98@gmail.com> ]]></description>
+	<author><![CDATA[Adrian Socha <@adrian.soc98@gmail.com> ]]></author>
+	<tab><![CDATA[front_office_features]]></tab>
+	<is_configurable>1</is_configurable>
+	<need_instance>1</need_instance>
+</module>
